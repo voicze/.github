@@ -14,29 +14,4 @@ This `Project` is currently under development .
 
 ## Demo
 
-Live Site URl : [Voicze](https://getvoicze.vercel.app)
-
-## My Process
-
-I started this `Project` by bootraping Next js and then installing scss .. I started by making the folder structure , l checked out web simplified about react folder structure, after few hours i made one myself. i fully Started with the Navigation Component and then the rest of the components.
-
-## Voicze Was Built With
-
-- NextJs
-- AOS / GSAP / Famer Motion
-- Vercel / railway
-- RapidAPI / OpenAI
-- Playwright test
-- Tailwindcss
-- SCSS Module
-- Mobile first workflow
-
-## Time - Total development process
-
-- in-progress
-
-## Developer Information
-
-- Website [`Blyncnov`](https://pro-blyncnov.vercel.app).
-- Twitter [`@jeremytechie`](https://twitter.com/jeremytechie).
-- Linkedin [`Taiwo Boluwatife`](https://linkedin.com/in/blyncnov).
+Live Site url : [Voicze](https://getvoicze.vercel.app)
