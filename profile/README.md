@@ -1,4 +1,4 @@
-## Voicze
+## Voicze Application
 
 This is a Fullstack Web Application , created by Taiwo Boluwatife [`Blyncnov`](https://blyncnov.com/).
 
